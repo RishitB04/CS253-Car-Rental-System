@@ -1,0 +1,5 @@
+Camry Toyota 1 0 0 0
+3_Series BMW 1 0 0 0
+Mustang Ford 1 0 0 0
+Civic Honda 1 0 0 0
+Model_S Tesla 0 Alice 123 28/04/24
