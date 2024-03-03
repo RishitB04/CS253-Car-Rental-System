@@ -34,3 +34,10 @@ During the execution of the program, the following instructions will guide the u
 3. **Model Name Entry**: When prompted to enter the model name of a car, users should input the exact model name as it appears in the system.
 
 Follow these instructions carefully to interact with the software effectively.
+
+To log in as a manager, please use the following credentials:
+
+- **User ID**: 000
+- **Password**: pass000
+
+These credentials provide access to the manager account, allowing you to perform managerial tasks and access privileged features within the system.
